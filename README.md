@@ -4,7 +4,7 @@ A Magisk/KernelSU module to change your Arabic/Persian font to Teshrin + IOS emo
 
 ## 📜 Instruction
 
-- Download last EvilFont zip file from the [Release page](https://github.com/dedeadend/EvilFont/releases/latest/).
+- Download last EvilFont zip file from the [Releases page](https://github.com/dedeadend/EvilFont/releases/latest/).
 - Go to Magisk/KernelSU module manager.
 - Install downloaded zip file.
 - Reboot and Enjoy!
